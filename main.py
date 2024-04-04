@@ -6,4 +6,4 @@ name = input("Input your name: ")
 ban_names = ["Mark", "Ryuo", "Moda"]
 
 if name == "Mark" :
-  
+  print("Your Ban!")
