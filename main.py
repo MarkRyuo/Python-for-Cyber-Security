@@ -2,6 +2,9 @@
 
 name = input("Input your name: ")
 
+while not name :
+  name = input("Input your name: ")
+
 #Array
 ban_names = ["Mark", "Ryuo", "Moda"]
 
