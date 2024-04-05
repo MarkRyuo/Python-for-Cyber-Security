@@ -33,10 +33,13 @@ print(f"Here the list of coffee: {Coffee_List}")
 order = input("What is your order?: ")
 
 americano = coffeelist.americano
+mocha = coffeelist.mocha 
+barako = coffeelist.barako
 
 if order in americano["Coffee_name"] :
   how_Many = int(input("How many?: "))
   if how_Many :
     total = how_Many * americano["price"] 
     print(f"Your order is {how_Many} {americano["Coffee_name"]} total of: {total} ")
+  
     
