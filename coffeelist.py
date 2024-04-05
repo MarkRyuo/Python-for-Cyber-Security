@@ -2,7 +2,7 @@
 # Todo This is Object
 
 # Tuple - unchangeable 
-
+# Coffee_List is for displaying only 
 Coffee_List = (
   "Americano",
   "Mocha",
@@ -13,5 +13,6 @@ Coffee_List = (
 
 americano = {
   "Coffee_name": "Americano",
-  
+  "price" : 30,
+   
 }
