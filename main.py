@@ -24,5 +24,5 @@ if name in list_ban_names :
 else :
   print(f"Welcome to Arc Coffee shop {name}")
   
-# We  need to welcome the costumer 
+# We need to welcome the costumer and list the coffee we have
   
