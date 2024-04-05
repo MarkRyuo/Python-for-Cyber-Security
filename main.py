@@ -20,8 +20,9 @@ if name in list_ban_names :
     else :
       print(f"{name} your pass in identity check! Welcome to Arc Coffee Shop")  
   else :
-      print("You're Totally a Ban!")
-    
+      print("You're Totally a Ban!")    
 else :
   print(f"Welcome to Arc Coffee shop {name}")
+  
+# We  need to welcome the costumer 
   
