@@ -40,17 +40,17 @@ if order in americano["Coffee_name"] :
   how_Many = int(input("How many?: "))
   if how_Many :
     total = how_Many * americano["price"] 
-    print(f"Your order is {how_Many} {americano["Coffee_name"]} total of: {total} ")
+    print(f"Your order is {how_Many} {americano["Coffee_name"]} total of: ₱{total} ")
 elif order in mocha["Coffee_name"] :
   how_Many = int(input("How many?: "))
   if how_Many :
     total = how_Many * mocha["price"] 
-    print(f"Your order is {how_Many} {mocha["Coffee_name"]} total of: {total} ")
+    print(f"Your order is {how_Many} {mocha["Coffee_name"]} total of: ₱{total} ")
 elif order in barako["Coffee_name"] :
   how_Many = int(input("How many?: "))
   if how_Many :
     total = how_Many * barako["price"] 
-    print(f"Your order is {how_Many} {barako["Coffee_name"]} total of: {total} ")
+    print(f"Your order is {how_Many} {barako["Coffee_name"]} total of: ₱{total} ")
 else :
-  print(f"Ang {order} ay wala sa pagpi-piliian  ")
+  print(f"Ang {order} ay wala sa pagpi-piliian ")
     
