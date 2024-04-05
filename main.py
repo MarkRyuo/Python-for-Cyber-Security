@@ -1,4 +1,5 @@
 from bannames import list_ban_names
+from coffeelist import Coffee_List
 import coffeelist 
 
 # Todo Create a Secure Coffee Shop 
@@ -25,4 +26,5 @@ else :
   print(f"Welcome to Arc Coffee shop {name}")
   
 # We need to welcome the costumer and list the coffee we have
-  
+
+print(f"Here the list of coffee: {Coffee_List}")
