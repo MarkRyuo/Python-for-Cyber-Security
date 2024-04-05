@@ -4,5 +4,7 @@
 # Tuple - unchangeable 
 
 Coffee_List = (
+  "Americano",
+  "Mocha",
   
 )

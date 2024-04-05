@@ -1,7 +1,7 @@
 
 # Todo This is a array 
 
-#Array 
+#Array - Changeable 
 list_ban_names = [
   "Mark",
   "Ryuo",
