@@ -32,7 +32,7 @@ print(f"Here the list of coffee: {Coffee_List}")
 
 order = input("What is your order?: ")
 
-americano = coffeelist.americano 
+americano = ""
 mocha = coffeelist.mocha 
 barako = coffeelist.barako
 
