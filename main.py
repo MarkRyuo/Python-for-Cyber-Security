@@ -10,10 +10,10 @@ while not name :
   name = input("Input your name: ")
 
 if name == "Mark":
-  print("Your Ban, Ngunit kung ikaw ay papasa sa Character Identity Check makakapasok ka!")
+  print("Your Ban, Ngunit kung ikaw ay papasa sa Character Identity Check you can come in!")
   identity_Check1 = input("")
 elif name == "Ryuo" :
-  print("Your Ban, Ngunit kung ikaw ay papasa sa Character Identity Check makakapasok ka!")
+  print("Your Ban, Ngunit kung ikaw ay papasa sa Character Identity Check you can come in!")
   
 else :
   print(f"Welcome to Arc Coffee shop {name}")
