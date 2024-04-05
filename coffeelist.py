@@ -23,5 +23,5 @@ mocha = {
 
 barako = {
   "Coffee_name" : "Barako",
-  "price" : 20,
+  "price" : 20, # per cup only 
 }
