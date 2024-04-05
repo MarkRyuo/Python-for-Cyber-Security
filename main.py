@@ -41,4 +41,9 @@ if order in americano["Coffee_name"] :
   if how_Many :
     total = how_Many * americano["price"] 
     print(f"Your order is {how_Many} {americano["Coffee_name"]} total of: {total} ")
-elif order in mocha["Coffee_name"] :  
+elif order in mocha["Coffee_name"] :
+  how_Many = int(input("How many?: "))
+  if how_Many :
+    total = how_Many * mocha["price"] 
+    print(f"Your order is {how_Many} {mocha["Coffee_name"]} total of: {total} ")
+    
