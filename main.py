@@ -36,3 +36,4 @@ americano = coffeelist.americano
 
 if order in americano["Coffee_name"] :
   print(f"Your order is {americano["Coffee_name"]}")
+  price_of_coffee = input("How many?: ")
