@@ -1,4 +1,4 @@
-from bannames import 
+from bannames import list_ban_names
 
 # Todo Create a Secure Coffee Shop 
 
