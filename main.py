@@ -16,8 +16,8 @@ if name == "Mark":
     identity_Check2 = input("How many good way you have: ")
     if identity_Check2 <= 3 :
       print
-    elif identity_Check2 >= 4: 
-      print
+    else :
+      print(f"{name} your pass in identity check! Welcome to Arc Coffee Shop")
 
 elif name == "Ryuo" :
   print("Your Ban, Ngunit kung ikaw ay papasa sa Character Identity Check you can come in!")
