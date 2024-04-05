@@ -1,6 +1,6 @@
 from bannames import list_ban_names
 from coffeelist import Coffee_List
-import coffeelist 
+import coffeelist # object may dot(.) notation kapag kinukuha 
 
 # Todo Create a Secure Coffee Shop 
 print(list_ban_names)
