@@ -16,6 +16,7 @@ if name == "Mark":
     identity_Check2 = input("How many good way you have: ")
     if identity_Check2 <= 3 :
       print("You're Totally a Ban!")
+      exit()
     else :
       print(f"{name} your pass in identity check! Welcome to Arc Coffee Shop")
 
