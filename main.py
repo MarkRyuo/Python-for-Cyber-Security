@@ -46,4 +46,9 @@ elif order in mocha["Coffee_name"] :
   if how_Many :
     total = how_Many * mocha["price"] 
     print(f"Your order is {how_Many} {mocha["Coffee_name"]} total of: {total} ")
+elif order in barako["Coffee_name"] :
+  how_Many = int(input("How many?: "))
+  if how_Many :
+    total = how_Many * barako["price"] 
+    print(f"Your order is {how_Many} {barako["Coffee_name"]} total of: {total} ")
     
