@@ -15,3 +15,8 @@ americano = {
   "Coffee_name": "Americano",
   "price" : 30 # per cup only 
 }
+
+mocha = {
+  "Coffee_name" : "Mocha",
+  "price" : 50, # per cup only 
+}
