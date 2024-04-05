@@ -13,6 +13,5 @@ Coffee_List = (
 
 americano = {
   "Coffee_name": "Americano",
-  "price" : 30,
-   
+  "price" : 30 # per cup only 
 }
