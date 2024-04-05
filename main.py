@@ -6,7 +6,7 @@ while not name :
   name = input("Input your name: ")
 
 #Array
-ban_names = ["Mark", "Ryuo", "Moda"]
+list_ban_names = ["Mark", "Ryuo", "Moda"]
 
 if name == "Mark" :
   print("Your Ban!")
