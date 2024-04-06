@@ -7,12 +7,12 @@
 # print(fruits)
 
 # print(help(fruits))
-
+  
 # Set 
 
-fruits = {"Banana", "Apple", "Pineapple"}
+# fruits = {"Banana", "Apple", "Pineapple"}
 
-fruits.add(fruits: "Barako")
+# fruits.add(fruits: "Barako")
 
 # Tuple 
 
