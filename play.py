@@ -2,7 +2,8 @@
 
 fruits = ["Banana", "Apple", "Pineapple"]
 
-fruits.insert(3, "Barako")
+# fruits.insert(3, "Barako")
+fruits.add("Barako")
 print(fruits)
 
 # print(help(fruits))
