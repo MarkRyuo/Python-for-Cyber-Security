@@ -7,3 +7,8 @@ fruits = ["Banana", "Apple", "Pineapple"]
 # Set 
 
 fruits = {"Banana", "Apple", "Pineapple"}
+
+
+# Tuple 
+
+fruits = ("Banana", "Apple", "Pineapple")
