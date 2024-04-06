@@ -1,3 +1,5 @@
 # list 
 
-fruits = ["Banana", "Apple", "Pineapple", ]
+fruits = ["Banana", "Apple", "Pineapple"]
+
+print(fruits)
