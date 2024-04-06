@@ -2,6 +2,8 @@
 
 fruits = ["Banana", "Apple", "Pineapple"]
 
+fruits.insert(0, "Barako")
+print(fruits)
 # print(help(fruits))
 
 # Set 
