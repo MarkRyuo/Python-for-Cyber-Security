@@ -10,7 +10,9 @@
 
 # Set 
 
-# fruits = {"Banana", "Apple", "Pineapple"}
+fruits = {"Banana", "Apple", "Pineapple"}
+
+fruits.add("Barako")
 
 
 # Tuple 
