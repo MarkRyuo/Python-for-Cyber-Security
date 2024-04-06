@@ -2,4 +2,4 @@
 
 fruits = ["Banana", "Apple", "Pineapple"]
 
-print(fruits)
+# print(help(fruits))
