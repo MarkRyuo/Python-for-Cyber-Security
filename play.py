@@ -12,8 +12,7 @@
 
 fruits = {"Banana", "Apple", "Pineapple"}
 
-fruits.add("Barako")
-
+fruits.add(fruits: "Barako")
 
 # Tuple 
 
