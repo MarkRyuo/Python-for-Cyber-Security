@@ -1,5 +1,4 @@
 # list 
-
 # fruits = ["Banana", "Apple", "Pineapple"]
 
 # List of Methods 
