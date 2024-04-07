@@ -32,16 +32,20 @@ else :
   
 # remove a car in the list and print the new list 
 
-removeCar = input("Do you want to remove a car in the list (y/n): ")
+# removeCar = input("Do you want to remove a car in the list (y/n): ")
 
-if removeCar == "y" or removeCar == "Y" :
-  carRemove = input(f"What car in the list: {car_Brand} : \n")
-  if carRemove in car_Brand :
-    car_Brand.remove(carRemove)
-    print(f"New Car list: {car_Brand}")
-    # End
-else :
-  print(f"Your answer is {removeCar} let's Continue!")
+# if removeCar == "y" or removeCar == "Y" :
+#   carRemove = input(f"What car in the list: {car_Brand} : \n")
+#   if carRemove in car_Brand :
+#     car_Brand.remove(carRemove)
+#     print(f"New Car list: {car_Brand}")
+#     # End
+# else :
+#   print(f"Your answer is {removeCar} let's Continue!")
   
   
 # Do you want to clear the list or delete 1 of the car in the list 
+
+removeCar = input("Do you want to remove a car or clear the list (y/n): ")
+
+if removeCar : 
