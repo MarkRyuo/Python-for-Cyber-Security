@@ -41,4 +41,4 @@ if removeCar == "y" or removeCar == "Y" :
     print(f"New Car list: {car_Brand}")
     # End
 else :
-  print(f"Your answer is {carRemove} let's Continue!")
+  print(f"Your answer is {removeCar} let's Continue!")
