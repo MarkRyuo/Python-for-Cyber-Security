@@ -48,4 +48,5 @@ else :
 
 removeCar = input("Do you want to remove a car or clear the list (y/n): ")
 
-if removeCar : 
+if removeCar == "y" or removeCar == "Y" : 
+  
