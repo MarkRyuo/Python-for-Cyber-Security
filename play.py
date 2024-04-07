@@ -40,4 +40,4 @@ if removeCar == "y" or removeCar == "Y" :
     car_Brand.remove(carRemove)
     print(f"New Car list: {car_Brand}")
   else :
-    
+    print(f"Your answer is {carRemove} let's Continue!")
