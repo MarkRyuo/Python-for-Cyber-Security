@@ -32,7 +32,7 @@ else :
   
 # remove a car in the list and print the new list 
 
-removeCar = input("Do you want to remove a car in the list: (y/n)")
+removeCar = input("Do you want to remove a car in the list (y/n): ")
 
 if removeCar == "y" or removeCar == "Y" :
   carRemove = input(f"What car in the list: {car_Brand} : \n")
