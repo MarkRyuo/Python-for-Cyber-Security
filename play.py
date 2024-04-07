@@ -42,3 +42,6 @@ if removeCar == "y" or removeCar == "Y" :
     # End
 else :
   print(f"Your answer is {removeCar} let's Continue!")
+  
+  
+# Do you want to clear the list or delete 1 of the car in the list 
