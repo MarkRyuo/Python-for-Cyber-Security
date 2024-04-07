@@ -36,3 +36,6 @@ removeCar = input("Do you want to remove a car in the list: (y/n)")
 
 if removeCar == "y" or removeCar == "Y" :
   carRemove = input(f"What car in the list: {car_Brand} : \n")
+  if carRemove in car_Brand :
+    car_Brand.remove()
+    print(f"New Car list: {car_Brand}")
