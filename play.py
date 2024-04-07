@@ -46,8 +46,8 @@ else :
   
 # Do you want to clear the list or delete 1 of the car in the list 
 
-removeCar = input("Do you want to remove a car or clear the list (clear/remove): ")
+RemoveOrClear = input("Do you want to remove a car or clear the list (clear/remove) : ")
 
-if removeCar == "y" or removeCar == "Y" :
+if RemoveOrClear == "clear" or RemoveOrClear == "Clear" :
    
   
