@@ -52,5 +52,13 @@ if RemoveOrClear == "clear" or RemoveOrClear == "Clear" :
   car_Brand.clear() 
   print(f"You list is Cleared: {car_Brand}")
 elif RemoveOrClear == "remove" or RemoveOrClear == "Remove" :
-  
+  removeCar = input(f"What car you want to remove: {car_Brand} \n")
+  if removeCar in car_Brand : 
+    car_Brand.remove(removeCar)
+    print(f"Updated list of car: {car_Brand}")
+  elif removeCar :
+    for not removeCar :
+      
+  else:
+    print(f"Your Choice is not in the choices")
   
