@@ -29,3 +29,9 @@ if add_car :
   print(f"New List of cars: {car_Brand}") 
 else :
   print("Null") 
+  
+# remove a car in the list and print the new list 
+
+removeCar = input("Do you want to remove a car in the list: (y/n)")
+
+if removeCar == "y" or removeCar == "Y" :
