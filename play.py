@@ -49,5 +49,7 @@ else :
 RemoveOrClear = input("Do you want to remove a car or clear the list (clear/remove) : ")
 
 if RemoveOrClear == "clear" or RemoveOrClear == "Clear" :
+  car_Brand.clear() 
+  print(f"You clear the list: {car_Brand}")
    
   
