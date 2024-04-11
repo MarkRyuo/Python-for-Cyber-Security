@@ -6,8 +6,8 @@ question = input("Do you want to login? (yes/no): ")
 
 while not question :
     question = input("Do you want to login? (yes/no)") 
-    question.lower()
     if question == "yes" :
+        question.lower()
         # Display the answer 
         print(f"{question}")
     elif question == "no" :
