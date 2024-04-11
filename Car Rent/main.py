@@ -16,3 +16,5 @@ while not question :
         exit()
     else: 
         print(f"Your answer wrong {question}")
+
+print("Hello Welcome to Arc Car Rental Shop")
