@@ -12,4 +12,4 @@ while not question :
         print(f"{question}")
     elif question == "no" :
         question.lower()
-        
+        print(f"{question}")
