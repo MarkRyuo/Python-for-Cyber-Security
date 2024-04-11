@@ -10,5 +10,3 @@ while not question :
         question.lower()
         print("Your welcome")
 
-
-   
