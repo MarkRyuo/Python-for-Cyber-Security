@@ -10,4 +10,4 @@ while not question :
         question.lower()
         # Display the answer 
         print(f"{question}")
-    elif  
+    elif question == "no"  
