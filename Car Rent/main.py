@@ -13,3 +13,4 @@ while not question :
     elif question == "no" :
         question.lower()
         print(f"{question}")
+        exit()
