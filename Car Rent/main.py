@@ -21,25 +21,3 @@ else:
 
 
 
-# def Question(question) : 
-#     while not question :
-#         question = input("Do you want to login? (yes/no): ")
-#         if question == "yes" :
-#             question.lower()
-#             # Display the answer 
-#             print(f"{question}")
-#         elif question == "no" :
-#             question.lower()
-#             print(f"{question}")
-#             exit()
-#         else: 
-#             print(f"Your answer wrong {question}")
-#             exit()
-    
-   
-
-              
-
-# Question(question)
-
-
