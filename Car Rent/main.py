@@ -23,8 +23,8 @@ else:
 
 # Success in Log in 
 
-user = userdata["user"]
-admin = userdata["admin"]
+user = userdata.user
+admin = userdata.admin
 
 def Log_In() :
     login = input("Enter your username: ")
