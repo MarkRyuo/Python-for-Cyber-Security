@@ -6,3 +6,10 @@ user = {
     "age" : 21,
     "type" : "user"
 }
+
+admin = {
+    "username" : "Mark",
+    "password" : "mark",
+    "age" : 21,
+    "type" : "Admin"
+}
