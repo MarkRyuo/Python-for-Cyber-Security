@@ -18,6 +18,6 @@ while not question :
         print(f"Your answer wrong {question}")
         exit()
 
-print("Hello Welcome to Arc Car Rental Shop")
+
 
 
