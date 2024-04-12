@@ -20,9 +20,9 @@
 
 def Question() :
     question = input("Do you want to login? (yes/no): ")
-    if not question :
-         while question :
-              question = input("Do you want to login? (yes/no): ")
+    if question == None :
+        question = input("Do you want to login? (yes/no): ")
+
               
 
 Question()
