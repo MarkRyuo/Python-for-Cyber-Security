@@ -24,6 +24,7 @@ else:
 # Success in Log in 
 
 user = userdata.user
+admin = userdata.admin
 
 login = input("Enter your username: ")
 
