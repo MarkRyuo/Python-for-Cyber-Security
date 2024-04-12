@@ -2,7 +2,7 @@
 
 # do you want to login? YES --> Continue if No --> Exit 
 
-question = input("Do you want to login? (yes/no): ") # To-do This code have a issue 
+# question = input("Do you want to login? (yes/no): ") # To-do This code have a issue 
 
 # while not question :
 #     question = input("Do you want to login? (yes/no): ") 
@@ -19,7 +19,7 @@ question = input("Do you want to login? (yes/no): ") # To-do This code have a is
 #         exit()
 
 def Question() :
-    question = "" 
+    question = input("Do you want to login? (yes/no): ")
     while question == 0 :
         question = input("Do you want to login? (yes/no): ") 
         if question == "yes" :
@@ -34,6 +34,6 @@ def Question() :
             print(f"Your answer wrong {question}")
             exit()
 
-Question() 
+Question()
 
 
