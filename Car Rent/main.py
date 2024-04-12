@@ -29,11 +29,11 @@ def Question(question) :
             print(f"{question}")
         elif question == "no" :
             question.lower()
-        print(f"{question}")
-        exit()
-    else: 
-        print(f"Your answer wrong {question}")
-        exit()
+            print(f"{question}")
+            exit()
+        else: 
+            print(f"Your answer wrong {question}")
+            exit()
     
    
 
