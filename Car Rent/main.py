@@ -26,19 +26,16 @@ else:
 user = userdata.user
 admin = userdata.admin
 
-def Log_In() :
-    login = input("Enter your username: ")
-    return login
+login = input("Enter your username: ")
     
-logs = Log_In()
 
-def Admin(logs) :
+def Admin(login) :
     if logs in user["username"] :
         # Change
         print("Hello admin:")
 
 
-Admin(logs)
+Admin(login)
 
     
 
