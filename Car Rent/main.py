@@ -30,10 +30,11 @@ def Log_In() :
     login = input("Enter your username: ")
     return login
     
+logs = Log_In()
 
-
-def Admin() :
-
+def Admin(logs) :
+    if logs in user["username"] :
+        # Change
 
     
 
