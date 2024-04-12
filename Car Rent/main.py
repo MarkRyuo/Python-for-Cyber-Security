@@ -20,7 +20,7 @@
 
 def Question() :
     question = input("Do you want to login? (yes/no): ")
-    while question == 0 :
+    while not question :
         question = input("Do you want to login? (yes/no): ") 
         if question == "yes" :
              question.lower()
