@@ -1,5 +1,6 @@
 
 
-user = dict(
-    "username" : "Ryuo"
-)
+user = {
+    "username" : "Ryuo",
+
+}
