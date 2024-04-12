@@ -26,11 +26,11 @@ else:
 user = userdata.user
 admin = userdata.admin
 
+   
 login = input("Enter your username: ")
-    
 
 def Admin(login) :
-    if logs in user["username"] :
+    if login in user["username"] :
         # Change
         print("Hello admin:")
 
