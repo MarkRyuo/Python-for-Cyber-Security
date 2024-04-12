@@ -23,5 +23,5 @@ else:
 
 # Success in Log in 
 
-
+user = userdata.user
 
