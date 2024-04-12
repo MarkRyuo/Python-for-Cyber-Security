@@ -35,6 +35,9 @@ logs = Log_In()
 def Admin(logs) :
     if logs in user["username"] :
         # Change
+        print(f"Hello admin: {user["username"]}")
+
+Admin(logs)
 
     
 
