@@ -34,6 +34,6 @@ def Question() :
             print(f"Your answer wrong {question}")
             exit()
 
-
+Question() 
 
 
