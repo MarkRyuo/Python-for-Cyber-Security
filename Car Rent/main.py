@@ -39,6 +39,6 @@ def Question(question) :
 
               
 
-Question()
+Question(question)
 
 
