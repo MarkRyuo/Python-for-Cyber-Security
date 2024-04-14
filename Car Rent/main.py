@@ -14,7 +14,6 @@ if question == "yes" :
     # Display the answer 
     print(f"{question}")
 elif question == "no" :
-    question.lower()
     print(f"{question}")
     exit()
 else: 
