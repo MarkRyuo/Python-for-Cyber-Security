@@ -30,7 +30,7 @@ admin = userdata.admin
 login = input("Enter your username: ")
 
 def Admin(login) :
-    if login in admin.username :
+    if login in admin["username"] :
         # Change
         print("Hello admin:")
 
@@ -38,7 +38,7 @@ def Admin(login) :
 Admin(login)
 
 def User(login) :
-    if login in user["usernmae"] :
+    if login in user["username"] :
         print(f"Hello user: {user.username}")
 
 User(login)
