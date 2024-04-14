@@ -39,7 +39,7 @@ Admin(login)
 
 def user(login) :
     if login in user :
-        print(f"Hello user: {user.username}")
+        print(f"Hello user: {user}")
 
 user(login)
 
