@@ -38,6 +38,7 @@ def Admin(login) :
 Admin(login)
 
 def user(login) :
+    if login in user["username"]
 
     
 
