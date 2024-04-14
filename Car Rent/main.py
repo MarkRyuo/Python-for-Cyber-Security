@@ -37,5 +37,7 @@ def Admin(login) :
 
 Admin(login)
 
+def user(login) :
+
     
 
