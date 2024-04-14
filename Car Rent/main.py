@@ -38,8 +38,8 @@ def Admin(login) :
 Admin(login)
 
 def User(login) :
-    if login in user :
-        print(f"Hello user: {user}")
+    if login in user["usernmae"] :
+        print(f"Hello user: {user["username"]}")
 
 User(login)
 
