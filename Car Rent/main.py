@@ -37,11 +37,11 @@ def Admin(login) :
 
 Admin(login)
 
-def user(login) :
+def User(login) :
     if login in user :
         print(f"Hello user: {user}")
 
-user(login)
+User(login)
 
     
 
