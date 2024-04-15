@@ -47,6 +47,7 @@ User(login)
 car = cars.car
 
 # For loop 
-for x in range(0, 3) : 
+for x in range(0, 3) :
+    login+=x 
     print(x)
 
