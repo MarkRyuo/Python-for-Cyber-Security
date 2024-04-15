@@ -9,6 +9,6 @@ car = {
 
 car2 = {
     "carName" : "Honda",
-    "model" : "Toyota",
+    "model" : "Honda",
     "ageOfCar" : 2
 }
