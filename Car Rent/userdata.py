@@ -15,5 +15,5 @@ admin = {
 }
 
 hacker = {
-    
+    "username" : "Moda",
 }
