@@ -18,5 +18,5 @@ hacker = {
     "username" : "Moda",
     "password" : "Hackme",
     "age" : 21,
-    "Type"
+    "Type" : "Hacker"
 }
