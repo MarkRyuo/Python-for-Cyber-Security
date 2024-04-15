@@ -1,0 +1,7 @@
+
+#obj 
+
+car = {
+    "carName" : "Toyota",
+     
+}
