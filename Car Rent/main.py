@@ -47,6 +47,6 @@ User(login)
 car = cars.car
 
 # For loop 
-for x in car :
+for x in car["carName"] :
     print(x)
 
