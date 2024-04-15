@@ -16,4 +16,6 @@ admin = {
 
 hacker = {
     "username" : "Moda",
+    "password" : "Hackme",
+    "age"
 }
