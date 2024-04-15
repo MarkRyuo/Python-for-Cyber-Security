@@ -46,3 +46,7 @@ User(login)
 
 car = cars.car
 
+for x in car :
+    print(car)
+    car += x 
+
