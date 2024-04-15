@@ -13,3 +13,7 @@ admin = {
     "age" : 21,
     "type" : "Admin"
 }
+
+hacker = {
+    
+}
